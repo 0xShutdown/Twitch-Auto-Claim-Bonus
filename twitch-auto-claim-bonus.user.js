@@ -21,7 +21,7 @@ let chest = setInterval(() => {
   
   if (points.length > 1) {
     console.log('+50 Points');
-    points[1].click(); 
+    points[1].click();
   }
   
 }, Math.random() * 1800 + 7200);
