@@ -10,8 +10,8 @@
 // @match         https://dashboard.twitch.tv/*
 // @homepage      https://github.com/SHUTDOWN45/Twitch-Auto-Claim-Bonus
 // @supportURL    https://github.com/SHUTDOWN45/Twitch-Auto-Claim-Bonus/issues
-// @updateURL     https://raw.githubusercontent.com/SHUTDOWN45/Twitch-Auto-Claim-Bonus/master/twitch-auto-claim-bonus.user.js
 // @downloadURL   https://raw.githubusercontent.com/SHUTDOWN45/Twitch-Auto-Claim-Bonus/master/twitch-auto-claim-bonus.user.js
+// @updateURL     https://raw.githubusercontent.com/SHUTDOWN45/Twitch-Auto-Claim-Bonus/master/twitch-auto-claim-bonus.user.js
 // @grant none
 // ==/UserScript==
 
