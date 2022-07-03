@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name          Twitch Auto Claim Bonus
-// @icon          https://raw.githubusercontent.com/SHUTDOWN45/Twitch-Auto-Claim-Bonus/main/icon.png
+// @icon          https://raw.githubusercontent.com/0xShutdown/Twitch-Auto-Claim-Bonus/main/icon.png
 // @description   Automatically claim twitch channel points.
 // @author        SHUTDOWN
 // @copyright     2021, SHUTDOWN
@@ -8,8 +8,8 @@
 // @license       MIT
 // @match         https://www.twitch.tv/*
 // @match         https://dashboard.twitch.tv/*
-// @homepage      https://github.com/SHUTDOWN45/Twitch-Auto-Claim-Bonus
-// @supportURL    https://github.com/SHUTDOWN45/Twitch-Auto-Claim-Bonus/issues
+// @homepage      https://github.com/0xShutdown/Twitch-Auto-Claim-Bonus
+// @supportURL    https://github.com/0xShutdown/Twitch-Auto-Claim-Bonus/issues
 // @downloadURL   https://raw.githubusercontent.com/0xShutdown/Twitch-Auto-Claim-Bonus/master/twitch-auto-claim-bonus.user.js
 // @updateURL     https://raw.githubusercontent.com/0xShutdown/Twitch-Auto-Claim-Bonus/master/twitch-auto-claim-bonus.user.js
 // @grant none
