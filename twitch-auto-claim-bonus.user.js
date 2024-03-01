@@ -13,7 +13,7 @@
 // @downloadURL   https://raw.githubusercontent.com/0xShutdown/Twitch-Auto-Claim-Bonus/master/twitch-auto-claim-bonus.user.js
 // @updateURL     https://raw.githubusercontent.com/0xShutdown/Twitch-Auto-Claim-Bonus/master/twitch-auto-claim-bonus.user.js
 // @grant         none
-// ==UserScript==
+// ==/UserScript==
 
 // Function to claim Twitch channel points
 function claimTwitchPoints() {
